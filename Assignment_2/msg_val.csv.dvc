@@ -1,0 +1,5 @@
+outs:
+- md5: 684a25fc840a5707b26a3046c2e49c66
+  size: 144327
+  hash: md5
+  path: msg_val.csv

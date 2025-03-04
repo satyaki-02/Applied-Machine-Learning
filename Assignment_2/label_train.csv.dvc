@@ -1,0 +1,5 @@
+outs:
+- md5: 6b4d7ea4ca8e2f293a5bc092e6bf05f3
+  size: 17179
+  hash: md5
+  path: label_train.csv
